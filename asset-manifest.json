@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Assignment1/static/css/main.a388d54b.chunk.css",
+    "main.css": "/Assignment1/static/css/main.7d177c86.chunk.css",
     "main.js": "/Assignment1/static/js/main.cb7fbdcd.chunk.js",
     "main.js.map": "/Assignment1/static/js/main.cb7fbdcd.chunk.js.map",
     "runtime-main.js": "/Assignment1/static/js/runtime-main.e010560e.js",
@@ -9,10 +9,10 @@
     "static/js/2.9716fa61.chunk.js": "/Assignment1/static/js/2.9716fa61.chunk.js",
     "static/js/2.9716fa61.chunk.js.map": "/Assignment1/static/js/2.9716fa61.chunk.js.map",
     "index.html": "/Assignment1/index.html",
-    "precache-manifest.dd8609dd7a228eb343f50af53c427d1b.js": "/Assignment1/precache-manifest.dd8609dd7a228eb343f50af53c427d1b.js",
+    "precache-manifest.51ef5ac3f6a48ba738970c07f448dee4.js": "/Assignment1/precache-manifest.51ef5ac3f6a48ba738970c07f448dee4.js",
     "service-worker.js": "/Assignment1/service-worker.js",
     "static/css/2.f12ece30.chunk.css.map": "/Assignment1/static/css/2.f12ece30.chunk.css.map",
-    "static/css/main.a388d54b.chunk.css.map": "/Assignment1/static/css/main.a388d54b.chunk.css.map",
+    "static/css/main.7d177c86.chunk.css.map": "/Assignment1/static/css/main.7d177c86.chunk.css.map",
     "static/js/2.9716fa61.chunk.js.LICENSE.txt": "/Assignment1/static/js/2.9716fa61.chunk.js.LICENSE.txt",
     "static/media/Bangalore.png": "/Assignment1/static/media/Bangalore.27828a4f.png",
     "static/media/FCCard.css": "/Assignment1/static/media/BusinessCategoriesbg.7c05118b.jpg",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.e010560e.js",
     "static/css/2.f12ece30.chunk.css",
     "static/js/2.9716fa61.chunk.js",
-    "static/css/main.a388d54b.chunk.css",
+    "static/css/main.7d177c86.chunk.css",
     "static/js/main.cb7fbdcd.chunk.js"
   ]
 }
