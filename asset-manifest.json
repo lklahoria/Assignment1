@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Assignment1/static/css/main.a388d54b.chunk.css",
+    "main.js": "/Assignment1/static/js/main.cb7fbdcd.chunk.js",
+    "main.js.map": "/Assignment1/static/js/main.cb7fbdcd.chunk.js.map",
+    "runtime-main.js": "/Assignment1/static/js/runtime-main.e010560e.js",
+    "runtime-main.js.map": "/Assignment1/static/js/runtime-main.e010560e.js.map",
+    "static/css/2.f12ece30.chunk.css": "/Assignment1/static/css/2.f12ece30.chunk.css",
+    "static/js/2.9716fa61.chunk.js": "/Assignment1/static/js/2.9716fa61.chunk.js",
+    "static/js/2.9716fa61.chunk.js.map": "/Assignment1/static/js/2.9716fa61.chunk.js.map",
+    "index.html": "/Assignment1/index.html",
+    "precache-manifest.dd8609dd7a228eb343f50af53c427d1b.js": "/Assignment1/precache-manifest.dd8609dd7a228eb343f50af53c427d1b.js",
+    "service-worker.js": "/Assignment1/service-worker.js",
+    "static/css/2.f12ece30.chunk.css.map": "/Assignment1/static/css/2.f12ece30.chunk.css.map",
+    "static/css/main.a388d54b.chunk.css.map": "/Assignment1/static/css/main.a388d54b.chunk.css.map",
+    "static/js/2.9716fa61.chunk.js.LICENSE.txt": "/Assignment1/static/js/2.9716fa61.chunk.js.LICENSE.txt",
+    "static/media/Bangalore.png": "/Assignment1/static/media/Bangalore.27828a4f.png",
+    "static/media/FCCard.css": "/Assignment1/static/media/BusinessCategoriesbg.7c05118b.jpg",
+    "static/media/advicefeatures1.png": "/Assignment1/static/media/advicefeatures1.0801a12a.png",
+    "static/media/chennai.png": "/Assignment1/static/media/chennai.d873a012.png",
+    "static/media/hotel.png": "/Assignment1/static/media/hotel.ab3526d3.png",
+    "static/media/logo.png": "/Assignment1/static/media/logo.7db45e98.png",
+    "static/media/logo2.png": "/Assignment1/static/media/logo2.69696310.png",
+    "static/media/manufacturing.png": "/Assignment1/static/media/manufacturing.860500ca.png",
+    "static/media/mumbai.png": "/Assignment1/static/media/mumbai.656a853e.png",
+    "static/media/restaurants.png": "/Assignment1/static/media/restaurants.c4e17d3e.png",
+    "static/media/slick-theme.css": "/Assignment1/static/media/slick.f97e3bbf.svg",
+    "static/media/Header.css": "/Assignment1/static/media/sliderimg.6da0f80d.jpg",
+    "static/media/tamilnadu.png": "/Assignment1/static/media/tamilnadu.a80234a9.png",
+    "static/media/timethesale.png": "/Assignment1/static/media/timethesale.63272151.png",
+    "static/media/usingabroker.png": "/Assignment1/static/media/usingabroker.e1b251ef.png",
+    "static/media/usingabroker1.png": "/Assignment1/static/media/usingabroker1.a61d8e46.png",
+    "static/media/website.png": "/Assignment1/static/media/website.25af4639.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e010560e.js",
+    "static/css/2.f12ece30.chunk.css",
+    "static/js/2.9716fa61.chunk.js",
+    "static/css/main.a388d54b.chunk.css",
+    "static/js/main.cb7fbdcd.chunk.js"
+  ]
+}
